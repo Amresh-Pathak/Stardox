@@ -56,7 +56,7 @@ P.S: Many new things will be added soon.
 2. `python3 stardox.py`
 
 Example Usage : `python3 ./stardox.py
-
+Amresh pathak
 
 ### Contributing
 Any and all contributions, issues, features and tips are welcome.
